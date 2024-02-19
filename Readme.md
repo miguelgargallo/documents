@@ -11,8 +11,6 @@
 
 This repository contains documents authored by Miguel Gargallo. The documents are the result of research and analysis in the fields of business strategy, technology, and innovation. The documents are intended to provide insights and guidance to business leaders, entrepreneurs, and innovators:
 
-- [SMRIG](#smrig)
-
 ## SMRIG
 
 [SMRIG Analysis for Business Strategy by Miguel Gargallo](SMRIG/Readme.md)
